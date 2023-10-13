@@ -79,5 +79,3 @@ understanding its result when it comes to Fashion clothing recognition.
 Take a look, modify it, and you’ll find out some more about deep learning and image
 classification operations.
 
-
-Best of luck for your endeavor in machine learning and GitHub appearance!
